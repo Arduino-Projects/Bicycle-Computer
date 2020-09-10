@@ -8,13 +8,13 @@ A custom made bicycle computer that tracks your RPM, Speed, Calories Burned, alo
 
 
 # Open-Source Libraires Used
-Make sure to download all of the required libraries before running any of the programs
-http://www.rinkydinkelectronics.com/library.php?id=51 (UTFT Display Library)
-http://www.rinkydinkelectronics.com/library.php?id=59 (UTFT Geometry Library)
-http://www.rinkydinkelectronics.com/library.php?id=92 (Touchscreen Library)
-Credits to Henning Karlsen for all the amazing work with the libraries.
+Make sure to download all of the required libraries before running any of the programs  
+http://www.rinkydinkelectronics.com/library.php?id=51 (UTFT Display Library)  
+http://www.rinkydinkelectronics.com/library.php?id=59 (UTFT Geometry Library)  
+http://www.rinkydinkelectronics.com/library.php?id=92 (Touchscreen Library)  
+Credits to Henning Karlsen for all the amazing work with the libraries.  
 
-After downloading the libraries, run the calibration sketch, and type the values you receive in the Bicycle Computer Sketch
+After downloading the libraries, run the calibration sketch, and type the values you receive in the Bicycle Computer Sketch  
 
 
 # Why I Built This
@@ -24,7 +24,7 @@ After downloading the libraries, run the calibration sketch, and type the values
 
 
 # Youtube Video
-To better document my first project, I created a youtube video giving detailed, step by step instructions on how to build the Arduino Bicycle Computer
+To better document my first project, I created a youtube video giving detailed, step by step instructions on how to build the Arduino Bicycle Computer  
 https://www.youtube.com/watch?v=DRrc4r-CM68&ab_channel=ArduinoProjects
 
 
